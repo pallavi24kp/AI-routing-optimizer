@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.csv
+models/
+.DS_Store
+Thumbs.db
